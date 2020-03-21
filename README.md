@@ -1,6 +1,8 @@
 # SMB_PANDA
 verry fast random smb target discovery (no input needed, just run and discover targets)
 
+
+(i made this thing when i was horrible at python, and i literaly dont know why i published it, so i dont recomend ever downloading and running it)
 (proof of concept, dont actualy use this thing, and if you do, do not attack any of the targets you find)
 (be very carefull with this as it is extreamly powerfull and dangerous(im already having second thoughts about uploading this))
 
@@ -74,4 +76,3 @@ then it will tell you what is fulnerable and what has a safe version of smb
 (i know what some of you are thinking about doing with this , PLEASE PLEASE PLEASE DO NOT TURN THIS INTO A WORM, i created this to help people and i already have enough stuff on my mind, you can use your powers to do 1 2 3 4 or 5 (1 = (do good in the world (dosent meen defacing shit with your goddam popoganda)) 2 = (mess with people in a non harmfull way) 3 = (teach evil people a lesson in a semi-nonharmfull way) 4 = (make money off assholes and evil people in a verry non harmfull way) 5 = (influence people in a nonharmfull way)))
 
 (if you dont like somthing or find a bug. edit it your godam self or delete it)
-(how do i delete this !!!)
